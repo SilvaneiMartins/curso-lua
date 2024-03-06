@@ -12,10 +12,19 @@
 
 Curso de lua, framework utilizada na criação de game.
 
-<!-- <p align="center">
-    <a href="https://imgur.com/Gup6jka"><img src="https://i.imgur.com/Gup6jka.png" title="source: imgur.com" /></a>
+
+<h2>Desafio I</h2>
+<p align="center">
+    <a href="https://imgur.com/ZEutfqp"><img src="https://i.imgur.com/ZEutfqp.png" title="source: imgur.com" /></a>
     <br />
-</p> -->
+</p>
+
+## Desafios
+Desafio I
+```bash
+    # Link do primeiro desafio
+    $ https://github.com/SilvaneiMartins/curso-lua/tree/main/Modulo%20I/rg_creeper
+```
 
 ## Executar o game
 
