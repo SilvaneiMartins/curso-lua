@@ -19,13 +19,6 @@ Curso de lua, framework utilizada na criação de game.
     <br />
 </p>
 
-## Desafios
-Desafio I
-```bash
-    # Link do primeiro desafio
-    $ https://github.com/SilvaneiMartins/curso-lua/tree/main/Modulo%20I/rg_creeper
-```
-
 ## Executar o game
 
 ```bash
@@ -45,6 +38,13 @@ Desafio I
 
     # Executar expo go
     $ lua comentarios.lua
+```
+
+## Desafios
+
+```bash
+    # Link do primeiro desafio I
+    $ https://github.com/SilvaneiMartins/curso-lua/blob/main/Modulo%20I/desafiocreeper/desafio.lua
 ```
 
 ## Licença
